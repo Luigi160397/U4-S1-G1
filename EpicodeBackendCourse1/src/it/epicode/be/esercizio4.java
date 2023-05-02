@@ -24,6 +24,7 @@ public class esercizio4 {
         double n5 = Double.parseDouble(stringaN5);
         double n6 = Double.parseDouble(stringaN6);
         System.out.println(perimetroTriangolo(n4,n5,n6));
+        in.close();
 
         
 	}
